@@ -17,7 +17,8 @@ Where should you go from here?
 
 ```bash
 $ bundle install
-$ bundle exec kitabu export
+$ bundle exec kitabu check
+$ bundle exec kitabu export --only html
 $ ls output/
 ```
 
